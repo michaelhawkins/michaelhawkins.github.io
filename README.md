@@ -1,2 +1,1 @@
-This is the readme for michaelhawkins.github.io
-The end
+This is the readme for michaelhawkins.github.io.
